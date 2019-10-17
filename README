@@ -24,6 +24,10 @@ sudo apt-get -y install build-essential asciidoc binutils bzip2 gawk gettext git
 
 任何人都可以自由使用，授权基于 GPL v3，谢谢。
 
+源代码基于openwrt官方修改而来，ipk采用lean的代码。
+
+=====================================================================================
+English
 
 Please use "make menuconfig" to choose your preferred
 configuration for the toolchain and firmware.
